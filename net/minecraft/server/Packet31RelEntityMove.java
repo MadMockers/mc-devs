@@ -39,7 +39,7 @@ public class Packet31RelEntityMove extends Packet30Entity
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet31RelEntityMove
  * JD-Core Version:		0.6.0
  */

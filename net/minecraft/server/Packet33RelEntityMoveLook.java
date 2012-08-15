@@ -46,7 +46,7 @@ public class Packet33RelEntityMoveLook extends Packet30Entity
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet33RelEntityMoveLook
  * JD-Core Version:		0.6.0
  */

@@ -16,7 +16,7 @@ public class WorldGenMineshaftStart extends StructureStart
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.WorldGenMineshaftStart
  * JD-Core Version:		0.6.0
  */

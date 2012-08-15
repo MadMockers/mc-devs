@@ -60,7 +60,7 @@ public class Packet62NamedSoundEffect extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet62NamedSoundEffect
  * JD-Core Version:		0.6.0
  */

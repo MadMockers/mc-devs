@@ -36,7 +36,7 @@ public class PathfinderGoalOpenDoor extends PathfinderGoalDoorInteract
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.PathfinderGoalOpenDoor
  * JD-Core Version:		0.6.0
  */

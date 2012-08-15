@@ -31,7 +31,7 @@ public class ItemPickaxe extends ItemTool
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.ItemPickaxe
  * JD-Core Version:		0.6.0
  */

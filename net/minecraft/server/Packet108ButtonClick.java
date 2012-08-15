@@ -31,7 +31,7 @@ public class Packet108ButtonClick extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet108ButtonClick
  * JD-Core Version:		0.6.0
  */

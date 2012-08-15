@@ -96,7 +96,7 @@ public class Packet24MobSpawn extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet24MobSpawn
  * JD-Core Version:		0.6.0
  */

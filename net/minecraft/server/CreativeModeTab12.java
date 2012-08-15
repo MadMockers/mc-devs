@@ -8,7 +8,7 @@ final class CreativeModeTab12 extends CreativeModeTab
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.CreativeModeTab12
  * JD-Core Version:		0.6.0
  */

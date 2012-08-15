@@ -39,7 +39,7 @@ class GuiLogFormatter extends Formatter
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.GuiLogFormatter
  * JD-Core Version:		0.6.0
  */

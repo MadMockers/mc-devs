@@ -24,7 +24,7 @@ public class BiomeTaiga extends BiomeBase
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BiomeTaiga
  * JD-Core Version:		0.6.0
  */

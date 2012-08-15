@@ -57,7 +57,7 @@ public class BiomeCache
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BiomeCache
  * JD-Core Version:		0.6.0
  */

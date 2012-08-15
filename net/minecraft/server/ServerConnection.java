@@ -47,7 +47,7 @@ public abstract class ServerConnection
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.ServerConnection
  * JD-Core Version:		0.6.0
  */

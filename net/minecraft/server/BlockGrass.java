@@ -64,7 +64,7 @@ public class BlockGrass extends Block
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BlockGrass
  * JD-Core Version:		0.6.0
  */

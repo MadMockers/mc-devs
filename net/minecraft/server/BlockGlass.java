@@ -31,7 +31,7 @@ public class BlockGlass extends BlockHalfTransparant
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BlockGlass
  * JD-Core Version:		0.6.0
  */

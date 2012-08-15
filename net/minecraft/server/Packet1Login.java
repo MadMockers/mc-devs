@@ -79,7 +79,7 @@ public class Packet1Login extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet1Login
  * JD-Core Version:		0.6.0
  */

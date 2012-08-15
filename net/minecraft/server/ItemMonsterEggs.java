@@ -25,7 +25,7 @@ public class ItemMonsterEggs extends ItemBlock
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.ItemMonsterEggs
  * JD-Core Version:		0.6.0
  */

@@ -69,7 +69,7 @@ public class CommandGive extends CommandAbstract
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.CommandGive
  * JD-Core Version:		0.6.0
  */

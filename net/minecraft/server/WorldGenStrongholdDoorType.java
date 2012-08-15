@@ -1,10 +1,10 @@
-/*		 */ package net.minecraft.server;
-/*		 */ 
-/*		 */ public enum WorldGenStrongholdDoorType
-/*		 */ {
-/*		 */ }
+package net.minecraft.server;
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+public enum WorldGenStrongholdDoorType
+{
+}
+
+/* 
  * Qualified Name:		 net.minecraft.server.WorldGenStrongholdDoorType
  * JD-Core Version:		0.6.0
  */

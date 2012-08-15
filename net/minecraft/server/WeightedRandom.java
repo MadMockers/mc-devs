@@ -63,7 +63,7 @@ public class WeightedRandom
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.WeightedRandom
  * JD-Core Version:		0.6.0
  */

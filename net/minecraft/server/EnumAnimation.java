@@ -1,10 +1,10 @@
-/*	 */ package net.minecraft.server;
-/*	 */ 
-/*	 */ public enum EnumAnimation
-/*	 */ {
-/*	 */ }
+package net.minecraft.server;
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+public enum EnumAnimation
+{
+}
+
+/* 
  * Qualified Name:		 net.minecraft.server.EnumAnimation
  * JD-Core Version:		0.6.0
  */

@@ -23,7 +23,7 @@ public abstract interface IWorldAccess
 	public abstract void a(int paramInt1, int paramInt2, int paramInt3, int paramInt4, int paramInt5);
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.IWorldAccess
  * JD-Core Version:		0.6.0
  */

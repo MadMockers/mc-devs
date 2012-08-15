@@ -21,7 +21,7 @@ public abstract interface INetworkManager
 	public abstract void a(String paramString, Object[] paramArrayOfObject);
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.INetworkManager
  * JD-Core Version:		0.6.0
  */

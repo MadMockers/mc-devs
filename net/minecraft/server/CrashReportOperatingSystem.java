@@ -15,7 +15,7 @@ class CrashReportOperatingSystem
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.CrashReportOperatingSystem
  * JD-Core Version:		0.6.0
  */

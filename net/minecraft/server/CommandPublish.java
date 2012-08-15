@@ -18,7 +18,7 @@ public class CommandPublish extends CommandAbstract
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.CommandPublish
  * JD-Core Version:		0.6.0
  */

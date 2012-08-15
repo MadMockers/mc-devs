@@ -49,7 +49,7 @@ public class StructurePieceTreasure extends WeightedRandomChoice
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.StructurePieceTreasure
  * JD-Core Version:		0.6.0
  */

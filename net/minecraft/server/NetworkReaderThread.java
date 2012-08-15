@@ -20,12 +20,12 @@ class NetworkReaderThread extends Thread
 				}
 			}
 		} finally {
-/* 102 */			 NetworkManager.a.getAndDecrement();
+			NetworkManager.a.getAndDecrement();
 		}
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.NetworkReaderThread
  * JD-Core Version:		0.6.0
  */

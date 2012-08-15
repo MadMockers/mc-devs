@@ -60,7 +60,7 @@ public class Packet43SetExperience extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet43SetExperience
  * JD-Core Version:		0.6.0
  */

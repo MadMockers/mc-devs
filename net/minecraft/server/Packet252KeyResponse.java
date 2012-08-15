@@ -52,7 +52,7 @@ public class Packet252KeyResponse extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet252KeyResponse
  * JD-Core Version:		0.6.0
  */

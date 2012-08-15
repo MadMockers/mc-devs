@@ -25,7 +25,7 @@ public class PathfinderGoalRestrictSun extends PathfinderGoal
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.PathfinderGoalRestrictSun
  * JD-Core Version:		0.6.0
  */

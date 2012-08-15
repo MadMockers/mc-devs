@@ -11,7 +11,7 @@ public abstract interface ICommandListener
 	public abstract String a(String paramString, Object[] paramArrayOfObject);
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.ICommandListener
  * JD-Core Version:		0.6.0
  */

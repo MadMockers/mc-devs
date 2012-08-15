@@ -14,7 +14,7 @@ class NoteDataList extends ArrayList
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.NoteDataList
  * JD-Core Version:		0.6.0
  */

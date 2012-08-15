@@ -1,10 +1,10 @@
-/*		 */ package net.minecraft.server;
-/*		 */ 
-/*		 */ public enum EnumBedResult
-/*		 */ {
-/*		 */ }
+package net.minecraft.server;
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+public enum EnumBedResult
+{
+}
+
+/* 
  * Qualified Name:		 net.minecraft.server.EnumBedResult
  * JD-Core Version:		0.6.0
  */

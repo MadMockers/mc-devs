@@ -1,22 +1,22 @@
-/*		 */ package net.minecraft.server;
-/*		 */ 
-/*		 */ import java.io.File;
-/*		 */ import java.io.FilenameFilter;
-/*		 */ 
-/*		 */ class ChunkFilenameFilter
-/*		 */	 implements FilenameFilter
-/*		 */ {
-/*		 */	 ChunkFilenameFilter(WorldLoaderServer paramWorldLoaderServer)
-/*		 */	 {
-/*		 */	 }
-/*		 */ 
-/*		 */	 public boolean accept(File paramFile, String paramString)
-/*		 */	 {
-/* 241 */		 return paramString.endsWith(".mcr");
-/*		 */	 }
-/*		 */ }
+package net.minecraft.server;
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+import java.io.File;
+import java.io.FilenameFilter;
+
+class ChunkFilenameFilter
+	implements FilenameFilter
+{
+	ChunkFilenameFilter(WorldLoaderServer paramWorldLoaderServer)
+	{
+	}
+
+	public boolean accept(File paramFile, String paramString)
+	{
+		return paramString.endsWith(".mcr");
+	}
+}
+
+/* 
  * Qualified Name:		 net.minecraft.server.ChunkFilenameFilter
  * JD-Core Version:		0.6.0
  */

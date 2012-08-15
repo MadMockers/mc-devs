@@ -1,106 +1,106 @@
-/*		 */ package net.minecraft.server;
-/*		 */ 
-/*		 */ import java.util.Random;
-/*		 */ 
-/*		 */ public class PathfinderGoalJumpOnBlock extends PathfinderGoal
-/*		 */ {
-/*		 */	 private final EntityOcelot a;
-/*		 */	 private final float b;
-/*	19 */	 private int c = 0;
-/*	20 */	 private int d = 0;
-/*	21 */	 private int e = 0;
-/*	22 */	 private int f = 0;
-/*	23 */	 private int g = 0;
-/*	24 */	 private int h = 0;
-/*		 */ 
-/*		 */	 public PathfinderGoalJumpOnBlock(EntityOcelot paramEntityOcelot, float paramFloat) {
-/*	27 */		 this.a = paramEntityOcelot;
-/*	28 */		 this.b = paramFloat;
-/*	29 */		 a(5);
-/*		 */	 }
-/*		 */ 
-/*		 */	 public boolean a()
-/*		 */	 {
-/*	34 */		 return (this.a.isTamed()) && (!this.a.isSitting()) && (this.a.au().nextDouble() <= 0.006500000134110451D) && (f());
-/*		 */	 }
-/*		 */ 
-/*		 */	 public boolean b()
-/*		 */	 {
-/*	39 */		 return (this.c <= this.e) && (this.d <= 60) && (a(this.a.world, this.f, this.g, this.h));
-/*		 */	 }
-/*		 */ 
-/*		 */	 public void e()
-/*		 */	 {
-/*	44 */		 this.a.getNavigation().a(this.f + 0.5D, this.g + 1, this.h + 0.5D, this.b);
-/*	45 */		 this.c = 0;
-/*	46 */		 this.d = 0;
-/*	47 */		 this.e = (this.a.au().nextInt(this.a.au().nextInt(1200) + 1200) + 1200);
-/*	48 */		 this.a.r().a(false);
-/*		 */	 }
-/*		 */ 
-/*		 */	 public void c()
-/*		 */	 {
-/*	53 */		 this.a.setSitting(false);
-/*		 */	 }
-/*		 */ 
-/*		 */	 public void d()
-/*		 */	 {
-/*	58 */		 this.c += 1;
-/*	59 */		 this.a.r().a(false);
-/*	60 */		 if (this.a.e(this.f, this.g + 1, this.h) > 1.0D) {
-/*	61 */			 this.a.setSitting(false);
-/*	62 */			 this.a.getNavigation().a(this.f + 0.5D, this.g + 1, this.h + 0.5D, this.b);
-/*	63 */			 this.d += 1;
-/*	64 */		 } else if (!this.a.isSitting()) {
-/*	65 */			 this.a.setSitting(true);
-/*		 */		 } else {
-/*	67 */			 this.d -= 1;
-/*		 */		 }
-/*		 */	 }
-/*		 */ 
-/*		 */	 private boolean f() {
-/*	72 */		 int i = (int)this.a.locY;
-/*	73 */		 double d1 = 2147483647.0D;
-/*		 */ 
-/*	75 */		 for (int j = (int)this.a.locX - 8; j < this.a.locX + 8.0D; j++) {
-/*	76 */			 for (int k = (int)this.a.locZ - 8; k < this.a.locZ + 8.0D; k++) {
-/*	77 */				 if ((a(this.a.world, j, i, k)) && (this.a.world.isEmpty(j, i + 1, k))) {
-/*	78 */					 double d2 = this.a.e(j, i, k);
-/*		 */ 
-/*	80 */					 if (d2 < d1) {
-/*	81 */						 this.f = j;
-/*	82 */						 this.g = i;
-/*	83 */						 this.h = k;
-/*	84 */						 d1 = d2;
-/*		 */					 }
-/*		 */				 }
-/*		 */			 }
-/*		 */		 }
-/*		 */ 
-/*	90 */		 return d1 < 2147483647.0D;
-/*		 */	 }
-/*		 */ 
-/*		 */	 private boolean a(World paramWorld, int paramInt1, int paramInt2, int paramInt3) {
-/*	94 */		 int i = paramWorld.getTypeId(paramInt1, paramInt2, paramInt3);
-/*	95 */		 int j = paramWorld.getData(paramInt1, paramInt2, paramInt3);
-/*		 */ 
-/*	97 */		 if (i == Block.CHEST.id) {
-/*	98 */			 TileEntityChest localTileEntityChest = (TileEntityChest)paramWorld.getTileEntity(paramInt1, paramInt2, paramInt3);
-/*		 */ 
-/* 100 */			 if (localTileEntityChest.h < 1)
-/* 101 */				 return true;
-/*		 */		 } else {
-/* 103 */			 if (i == Block.BURNING_FURNACE.id)
-/* 104 */				 return true;
-/* 105 */			 if ((i == Block.BED.id) && (!BlockBed.a_(j))) {
-/* 106 */				 return true;
-/*		 */			 }
-/*		 */		 }
-/* 109 */		 return false;
-/*		 */	 }
-/*		 */ }
+package net.minecraft.server;
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+import java.util.Random;
+
+public class PathfinderGoalJumpOnBlock extends PathfinderGoal
+{
+	private final EntityOcelot a;
+	private final float b;
+	private int c = 0;
+	private int d = 0;
+	private int e = 0;
+	private int f = 0;
+	private int g = 0;
+	private int h = 0;
+
+	public PathfinderGoalJumpOnBlock(EntityOcelot paramEntityOcelot, float paramFloat) {
+		this.a = paramEntityOcelot;
+		this.b = paramFloat;
+		a(5);
+	}
+
+	public boolean a()
+	{
+		return (this.a.isTamed()) && (!this.a.isSitting()) && (this.a.au().nextDouble() <= 0.006500000134110451D) && (f());
+	}
+
+	public boolean b()
+	{
+		return (this.c <= this.e) && (this.d <= 60) && (a(this.a.world, this.f, this.g, this.h));
+	}
+
+	public void e()
+	{
+		this.a.getNavigation().a(this.f + 0.5D, this.g + 1, this.h + 0.5D, this.b);
+		this.c = 0;
+		this.d = 0;
+		this.e = (this.a.au().nextInt(this.a.au().nextInt(1200) + 1200) + 1200);
+		this.a.r().a(false);
+	}
+
+	public void c()
+	{
+		this.a.setSitting(false);
+	}
+
+	public void d()
+	{
+		this.c += 1;
+		this.a.r().a(false);
+		if (this.a.e(this.f, this.g + 1, this.h) > 1.0D) {
+			this.a.setSitting(false);
+			this.a.getNavigation().a(this.f + 0.5D, this.g + 1, this.h + 0.5D, this.b);
+			this.d += 1;
+		} else if (!this.a.isSitting()) {
+			this.a.setSitting(true);
+		} else {
+			this.d -= 1;
+		}
+	}
+
+	private boolean f() {
+		int i = (int)this.a.locY;
+		double d1 = 2147483647.0D;
+
+		for (int j = (int)this.a.locX - 8; j < this.a.locX + 8.0D; j++) {
+			for (int k = (int)this.a.locZ - 8; k < this.a.locZ + 8.0D; k++) {
+				if ((a(this.a.world, j, i, k)) && (this.a.world.isEmpty(j, i + 1, k))) {
+					double d2 = this.a.e(j, i, k);
+
+					if (d2 < d1) {
+						this.f = j;
+						this.g = i;
+						this.h = k;
+						d1 = d2;
+					}
+				}
+			}
+		}
+
+		return d1 < 2147483647.0D;
+	}
+
+	private boolean a(World paramWorld, int paramInt1, int paramInt2, int paramInt3) {
+		int i = paramWorld.getTypeId(paramInt1, paramInt2, paramInt3);
+		int j = paramWorld.getData(paramInt1, paramInt2, paramInt3);
+
+		if (i == Block.CHEST.id) {
+			TileEntityChest localTileEntityChest = (TileEntityChest)paramWorld.getTileEntity(paramInt1, paramInt2, paramInt3);
+
+			if (localTileEntityChest.h < 1)
+				return true;
+		} else {
+			if (i == Block.BURNING_FURNACE.id)
+				return true;
+			if ((i == Block.BED.id) && (!BlockBed.a_(j))) {
+				return true;
+			}
+		}
+		return false;
+	}
+}
+
+/* 
  * Qualified Name:		 net.minecraft.server.PathfinderGoalJumpOnBlock
  * JD-Core Version:		0.6.0
  */

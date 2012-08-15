@@ -60,7 +60,7 @@ public class Packet41MobEffect extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet41MobEffect
  * JD-Core Version:		0.6.0
  */

@@ -64,7 +64,7 @@ public class EntityMushroomCow extends EntityCow
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.EntityMushroomCow
  * JD-Core Version:		0.6.0
  */

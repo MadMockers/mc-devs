@@ -24,7 +24,7 @@ public class LayerIsland extends GenLayer
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.LayerIsland
  * JD-Core Version:		0.6.0
  */

@@ -35,7 +35,7 @@ public abstract class BlockContainer extends Block
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BlockContainer
  * JD-Core Version:		0.6.0
  */

@@ -26,7 +26,7 @@ public class BlockLightStone extends Block
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BlockLightStone
  * JD-Core Version:		0.6.0
  */

@@ -13,7 +13,7 @@ public abstract interface IBlockAccess
 	public abstract boolean s(int paramInt1, int paramInt2, int paramInt3);
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.IBlockAccess
  * JD-Core Version:		0.6.0
  */

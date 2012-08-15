@@ -46,7 +46,7 @@ public class Packet200Statistic extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet200Statistic
  * JD-Core Version:		0.6.0
  */

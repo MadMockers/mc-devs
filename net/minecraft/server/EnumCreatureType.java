@@ -34,7 +34,7 @@ public enum EnumCreatureType
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.EnumCreatureType
  * JD-Core Version:		0.6.0
  */

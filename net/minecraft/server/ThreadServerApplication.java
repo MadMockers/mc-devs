@@ -1,17 +1,17 @@
-/*		 */ package net.minecraft.server;
-/*		 */ 
-/*		 */ public class ThreadServerApplication extends Thread
-/*		 */ {
-/*		 */	 public ThreadServerApplication(MinecraftServer paramMinecraftServer, String paramString)
-/*		 */	 {
-/* 536 */		 super(paramString);
-/*		 */	 }
-/*		 */	 public void run() {
-/* 539 */		 this.a.run();
-/*		 */	 }
-/*		 */ }
+package net.minecraft.server;
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+public class ThreadServerApplication extends Thread
+{
+	public ThreadServerApplication(MinecraftServer paramMinecraftServer, String paramString)
+	{
+		super(paramString);
+	}
+	public void run() {
+		this.a.run();
+	}
+}
+
+/* 
  * Qualified Name:		 net.minecraft.server.ThreadServerApplication
  * JD-Core Version:		0.6.0
  */

@@ -44,7 +44,7 @@ public class NextTickListEntry
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.NextTickListEntry
  * JD-Core Version:		0.6.0
  */

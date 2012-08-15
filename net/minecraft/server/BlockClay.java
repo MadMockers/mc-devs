@@ -21,7 +21,7 @@ public class BlockClay extends Block
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BlockClay
  * JD-Core Version:		0.6.0
  */

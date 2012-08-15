@@ -76,7 +76,7 @@ public class BlockJukeBox extends BlockContainer
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BlockJukeBox
  * JD-Core Version:		0.6.0
  */

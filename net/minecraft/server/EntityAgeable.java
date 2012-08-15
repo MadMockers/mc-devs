@@ -52,7 +52,7 @@ public abstract class EntityAgeable extends EntityCreature
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.EntityAgeable
  * JD-Core Version:		0.6.0
  */

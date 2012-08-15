@@ -51,7 +51,7 @@ public class Packet104WindowItems extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet104WindowItems
  * JD-Core Version:		0.6.0
  */

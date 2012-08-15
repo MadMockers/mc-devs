@@ -27,7 +27,7 @@ public class PathfinderGoalDefendVillage extends PathfinderGoalTarget
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.PathfinderGoalDefendVillage
  * JD-Core Version:		0.6.0
  */

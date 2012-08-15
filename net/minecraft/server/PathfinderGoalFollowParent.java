@@ -62,7 +62,7 @@ public class PathfinderGoalFollowParent extends PathfinderGoal
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.PathfinderGoalFollowParent
  * JD-Core Version:		0.6.0
  */

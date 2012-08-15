@@ -43,7 +43,7 @@ public class GuiLogOutputHandler extends Handler
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.GuiLogOutputHandler
  * JD-Core Version:		0.6.0
  */

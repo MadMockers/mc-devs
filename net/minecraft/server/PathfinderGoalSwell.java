@@ -49,7 +49,7 @@ public class PathfinderGoalSwell extends PathfinderGoal
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.PathfinderGoalSwell
  * JD-Core Version:		0.6.0
  */

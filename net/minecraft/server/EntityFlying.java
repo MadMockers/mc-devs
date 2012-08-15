@@ -69,7 +69,7 @@ public abstract class EntityFlying extends EntityLiving
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.EntityFlying
  * JD-Core Version:		0.6.0
  */

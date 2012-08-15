@@ -17,7 +17,7 @@ public abstract interface ICommand extends Comparable
 	public abstract List a(ICommandListener paramICommandListener, String[] paramArrayOfString);
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.ICommand
  * JD-Core Version:		0.6.0
  */

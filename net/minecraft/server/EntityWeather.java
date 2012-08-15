@@ -1,14 +1,14 @@
-/*	 */ package net.minecraft.server;
-/*	 */ 
-/*	 */ public abstract class EntityWeather extends Entity
-/*	 */ {
-/*	 */	 public EntityWeather(World paramWorld)
-/*	 */	 {
-/* 9 */		 super(paramWorld);
-/*	 */	 }
-/*	 */ }
+package net.minecraft.server;
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+public abstract class EntityWeather extends Entity
+{
+	public EntityWeather(World paramWorld)
+	{
+		super(paramWorld);
+	}
+}
+
+/* 
  * Qualified Name:		 net.minecraft.server.EntityWeather
  * JD-Core Version:		0.6.0
  */

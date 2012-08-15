@@ -56,7 +56,7 @@ public class PathfinderGoalNearestAttackableTarget extends PathfinderGoalTarget
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.PathfinderGoalNearestAttackableTarget
  * JD-Core Version:		0.6.0
  */

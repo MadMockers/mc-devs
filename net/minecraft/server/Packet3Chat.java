@@ -51,7 +51,7 @@ public class Packet3Chat extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet3Chat
  * JD-Core Version:		0.6.0
  */

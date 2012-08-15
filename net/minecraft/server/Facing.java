@@ -11,7 +11,7 @@ public class Facing
 	public static final int[] d = { 0, 0, -1, 1, 0, 0 };
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Facing
  * JD-Core Version:		0.6.0
  */

@@ -81,7 +81,7 @@ public class Packet15Place extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet15Place
  * JD-Core Version:		0.6.0
  */

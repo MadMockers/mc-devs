@@ -72,7 +72,7 @@ public class Packet204LocaleAndViewDistance extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet204LocaleAndViewDistance
  * JD-Core Version:		0.6.0
  */

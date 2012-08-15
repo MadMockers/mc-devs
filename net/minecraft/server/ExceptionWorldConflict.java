@@ -1,14 +1,14 @@
-/*	 */ package net.minecraft.server;
-/*	 */ 
-/*	 */ public class ExceptionWorldConflict extends Exception
-/*	 */ {
-/*	 */	 public ExceptionWorldConflict(String paramString)
-/*	 */	 {
-/* 7 */		 super(paramString);
-/*	 */	 }
-/*	 */ }
+package net.minecraft.server;
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+public class ExceptionWorldConflict extends Exception
+{
+	public ExceptionWorldConflict(String paramString)
+	{
+		super(paramString);
+	}
+}
+
+/* 
  * Qualified Name:		 net.minecraft.server.ExceptionWorldConflict
  * JD-Core Version:		0.6.0
  */

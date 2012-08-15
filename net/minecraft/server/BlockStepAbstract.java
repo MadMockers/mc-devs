@@ -88,7 +88,7 @@ public abstract class BlockStepAbstract extends Block
 	public abstract String d(int paramInt);
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BlockStepAbstract
  * JD-Core Version:		0.6.0
  */

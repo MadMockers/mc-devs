@@ -24,7 +24,7 @@ public class RecipesFood
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.RecipesFood
  * JD-Core Version:		0.6.0
  */

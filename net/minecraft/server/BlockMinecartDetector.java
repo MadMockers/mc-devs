@@ -90,7 +90,7 @@ public class BlockMinecartDetector extends BlockMinecartTrack
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BlockMinecartDetector
  * JD-Core Version:		0.6.0
  */

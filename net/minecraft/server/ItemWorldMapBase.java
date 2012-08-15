@@ -17,7 +17,7 @@ public class ItemWorldMapBase extends Item
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.ItemWorldMapBase
  * JD-Core Version:		0.6.0
  */

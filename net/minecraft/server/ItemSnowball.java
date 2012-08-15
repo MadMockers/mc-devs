@@ -22,7 +22,7 @@ public class ItemSnowball extends Item
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.ItemSnowball
  * JD-Core Version:		0.6.0
  */

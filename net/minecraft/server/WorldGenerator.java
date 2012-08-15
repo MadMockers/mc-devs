@@ -33,7 +33,7 @@ public abstract class WorldGenerator
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.WorldGenerator
  * JD-Core Version:		0.6.0
  */

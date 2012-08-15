@@ -54,7 +54,7 @@ public class Packet71Weather extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet71Weather
  * JD-Core Version:		0.6.0
  */

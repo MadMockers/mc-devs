@@ -16,7 +16,7 @@ public class BlockHalfTransparant extends Block
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BlockHalfTransparant
  * JD-Core Version:		0.6.0
  */

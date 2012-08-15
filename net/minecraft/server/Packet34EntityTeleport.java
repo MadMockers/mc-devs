@@ -77,7 +77,7 @@ public class Packet34EntityTeleport extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet34EntityTeleport
  * JD-Core Version:		0.6.0
  */

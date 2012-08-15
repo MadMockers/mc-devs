@@ -56,7 +56,7 @@ public class Packet250CustomPayload extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet250CustomPayload
  * JD-Core Version:		0.6.0
  */

@@ -35,7 +35,7 @@ public class CommandDeop extends CommandAbstract
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.CommandDeop
  * JD-Core Version:		0.6.0
  */

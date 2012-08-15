@@ -59,7 +59,7 @@ public class CommandDispatcher extends CommandHandler
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.CommandDispatcher
  * JD-Core Version:		0.6.0
  */

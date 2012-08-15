@@ -24,7 +24,7 @@ public class EnchantmentWaterWorker extends Enchantment
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.EnchantmentWaterWorker
  * JD-Core Version:		0.6.0
  */

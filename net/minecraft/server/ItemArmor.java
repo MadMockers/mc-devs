@@ -26,7 +26,7 @@ public class ItemArmor extends Item
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.ItemArmor
  * JD-Core Version:		0.6.0
  */

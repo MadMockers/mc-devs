@@ -43,7 +43,7 @@ public abstract interface IMinecraftServer
 	public abstract void k(String paramString);
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.IMinecraftServer
  * JD-Core Version:		0.6.0
  */

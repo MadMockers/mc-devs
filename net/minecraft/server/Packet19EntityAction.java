@@ -31,7 +31,7 @@ public class Packet19EntityAction extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet19EntityAction
  * JD-Core Version:		0.6.0
  */

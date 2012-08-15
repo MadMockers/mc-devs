@@ -48,7 +48,7 @@ public class Packet131ItemData extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet131ItemData
  * JD-Core Version:		0.6.0
  */

@@ -34,7 +34,7 @@ public class Packet11PlayerPosition extends Packet10Flying
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet11PlayerPosition
  * JD-Core Version:		0.6.0
  */

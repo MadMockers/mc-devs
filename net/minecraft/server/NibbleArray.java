@@ -44,7 +44,7 @@ public class NibbleArray
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.NibbleArray
  * JD-Core Version:		0.6.0
  */

@@ -13,7 +13,7 @@ public class StripColor
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.StripColor
  * JD-Core Version:		0.6.0
  */

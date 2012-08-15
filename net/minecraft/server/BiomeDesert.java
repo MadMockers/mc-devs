@@ -32,7 +32,7 @@ public class BiomeDesert extends BiomeBase
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.BiomeDesert
  * JD-Core Version:		0.6.0
  */

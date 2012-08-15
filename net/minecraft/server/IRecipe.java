@@ -15,7 +15,7 @@ public abstract interface IRecipe
 	public abstract Recipe toBukkitRecipe();
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.IRecipe
  * JD-Core Version:		0.6.0
  */

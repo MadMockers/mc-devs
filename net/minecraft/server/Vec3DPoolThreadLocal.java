@@ -8,7 +8,7 @@ final class Vec3DPoolThreadLocal extends ThreadLocal
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Vec3DPoolThreadLocal
  * JD-Core Version:		0.6.0
  */

@@ -65,7 +65,7 @@ public class WorldGenMinable extends WorldGenerator
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.WorldGenMinable
  * JD-Core Version:		0.6.0
  */

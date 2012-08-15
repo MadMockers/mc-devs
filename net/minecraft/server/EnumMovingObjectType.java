@@ -1,10 +1,10 @@
-/*	 */ package net.minecraft.server;
-/*	 */ 
-/*	 */ public enum EnumMovingObjectType
-/*	 */ {
-/*	 */ }
+package net.minecraft.server;
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+public enum EnumMovingObjectType
+{
+}
+
+/* 
  * Qualified Name:		 net.minecraft.server.EnumMovingObjectType
  * JD-Core Version:		0.6.0
  */

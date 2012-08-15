@@ -44,7 +44,7 @@ public class Packet2Handshake extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet2Handshake
  * JD-Core Version:		0.6.0
  */

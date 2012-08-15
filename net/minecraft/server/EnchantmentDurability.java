@@ -25,7 +25,7 @@ public class EnchantmentDurability extends Enchantment
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.EnchantmentDurability
  * JD-Core Version:		0.6.0
  */

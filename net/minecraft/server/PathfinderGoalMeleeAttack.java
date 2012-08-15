@@ -83,7 +83,7 @@ public class PathfinderGoalMeleeAttack extends PathfinderGoal
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.PathfinderGoalMeleeAttack
  * JD-Core Version:		0.6.0
  */

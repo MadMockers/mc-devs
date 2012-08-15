@@ -31,7 +31,7 @@ public class Packet107SetCreativeSlot extends Packet
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.Packet107SetCreativeSlot
  * JD-Core Version:		0.6.0
  */

@@ -49,7 +49,7 @@ public class WorldProviderTheEnd extends WorldProvider
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.WorldProviderTheEnd
  * JD-Core Version:		0.6.0
  */

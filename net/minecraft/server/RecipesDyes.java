@@ -38,7 +38,7 @@ public class RecipesDyes
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.RecipesDyes
  * JD-Core Version:		0.6.0
  */

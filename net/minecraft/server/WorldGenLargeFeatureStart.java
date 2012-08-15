@@ -21,7 +21,7 @@ public class WorldGenLargeFeatureStart extends StructureStart
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.WorldGenLargeFeatureStart
  * JD-Core Version:		0.6.0
  */

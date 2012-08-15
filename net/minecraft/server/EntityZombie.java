@@ -95,7 +95,7 @@ public class EntityZombie extends EntityMonster
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.EntityZombie
  * JD-Core Version:		0.6.0
  */

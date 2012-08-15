@@ -35,7 +35,7 @@ public class CommandSaveAll extends CommandAbstract
 	}
 }
 
-/* Location:					 F:\Minecraft\1.3.1v\craftbukkit\
+/* 
  * Qualified Name:		 net.minecraft.server.CommandSaveAll
  * JD-Core Version:		0.6.0
  */
